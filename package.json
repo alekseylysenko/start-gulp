@@ -1,0 +1,31 @@
+{
+    "name": "gulp-web",
+    "version": "1.0.0",
+    "description": "Project using gulp4",
+    "author": "AlekseyLysenko",
+    "devDependencies": {
+        "@babel/core": "^7.9.0",
+        "@babel/preset-env": "^7.9.0",
+        "babel-plugin-transform-react-jsx": "^6.24.1",
+        "browser-sync": "^2.26.7",
+        "del": "^5.1.0",
+        "gulp": "^4.0.2",
+        "gulp-babel": "^8.0.0",
+        "gulp-imagemin": "^7.1.0",
+        "gulp-plumber": "^1.2.1",
+        "gulp-rename": "^2.0.0",
+        "gulp-rigger": "^0.5.8",
+        "gulp-sass": "^4.0.2",
+        "gulp-uglify": "^3.0.2",
+        "node-sass": "^4.13.1",
+        "panini": "^1.6.3"
+    },
+    "dependencies": {
+        "bootstrap": "^4.4.1",
+        "gulp-autoprefixer": "^7.0.1",
+        "gulp-cssbeautify": "^2.0.1",
+        "gulp-strip-css-comments": "^2.0.0",
+        "gulp-typescript": "^6.0.0-alpha.1",
+        "slick-carousel": "^1.8.1"
+    }
+}

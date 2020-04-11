@@ -1,0 +1,28 @@
+.header{
+    width: 100%;
+    padding: 10px;
+    background-color: $primary;
+    box-shadow:$shadow;
+}
+.header__title{
+    margin: 0;
+    font-size: 36px;
+    color: #fff;
+}
+.header__logo-img{
+    margin-left: 15px;
+    width: 50px;
+    
+}
+.header__logo-text{
+   
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;  
+    font-weight: 600;
+    color:$black;
+}
+.header__logo{
+    text-decoration: none;
+    font-size: 15px; 
+}
